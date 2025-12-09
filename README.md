@@ -1,0 +1,1 @@
+A simple music playlist simulator in C using a doubly linked list. Songs can be added and played forward or backward, demonstrating traversal in both directions. Includes basic playlist creation and navigation functions.
